@@ -5,3 +5,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://www.matthiaszarzecki.com) [![Twitter Follow](https://img.shields.io/twitter/follow/icarustyler.svg?style=social&label=Follow)](https://twitter.com/IcarusTyler)
 
 A tutorial desbribing various uses of the Unity Video Player
+
+![Screenshot](media/unity_video_player_gif_01_650_364.gif)
+
+![Screenshot](media/unity_video_player_gif_03_650_367.gif)
